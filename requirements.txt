@@ -1,0 +1,5 @@
+streamlit
+numpy
+matplotlib.pyplot
+pandas
+yfinance>=0.2.31b2
